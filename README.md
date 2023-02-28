@@ -2,13 +2,15 @@ Task N1
 $sudo -i
 $useradd Sorry
 $passwd kali
-$login #login to this user
+$login
 $whoami
 $logout
+(terminal commands)
 
 Task N2
 netstat #для надежности
 ping #чек коннекшион
+(terminal commands)
 
 Task N3
   Mymodule.c:
